@@ -1,0 +1,15 @@
+step 1: Login With your GitHub account
+
+Step 2: Click on new button which is visible at right side top corner
+
+Step 3: Create new Repository
+        Enter Repository name
+        Enter Description 
+
+Step 4: Click on green button create repository 
+
+Step 5: Open Terminal 
+
+Step 6: git init
+
+Step 7: git add
