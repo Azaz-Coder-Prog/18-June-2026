@@ -1,0 +1,31 @@
+1: Server : Who Provides services
+
+2: Client: Who receives services
+
+E.G. Browser - Google Chrome, Firefox etc..
+
+3: Client send request to server 
+
+e.g. www.github.com
+
+www: World Wide Web
+
+---------------------------------------------------------------------------------------------
+
+http: http stans as hyper test transfer protocol
+
+A way to communication between client and server 
+
+htttp accept request from client and sent to server 
+http receive response from server and send to client 
+
+
+There are different method to convey using http
+
+POST : Post Method- which is use to send record to server 
+GET  : Get Method - fetch response
+\ to server 
+PUT  : Update Method - update record in server 
+PATCH : Partially update method: Half of details update in server 
+DELETE : Delete Method : Delete record from server 
+
