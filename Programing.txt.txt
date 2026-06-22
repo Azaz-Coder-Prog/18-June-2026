@@ -1,0 +1,11 @@
+1-What is Language?
+  A way to communicate 
+
+2- What is Program?
+  Program is a set of instruction code for computer what to do and how to do.
+
+3- What is Programming?
+   Programming is a process to write a program, design, build or debug a program, Like planning, designing,managing etc....
+   
+4 - What is coding ?
+   Coding is a just a thing to write a piece of code or write program.
