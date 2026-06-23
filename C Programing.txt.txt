@@ -1,0 +1,63 @@
+C Language: 
+
+C Is a most powerful programing language
+
+Which is developed by Denis M. Ritchie in 1972 at AT & T bell Lab.
+
+before c program there was  B Programing Language
+
+and before B program there is a BCPL (Basic Computed Programing Language)
+
+ANSI Standardized C Programing in 1989
+
+ANSI: American National Standard Institute 
+
+and rename it as ANSI C and C89
+
+=====================================================================================================================================
+
+
+# : Pre Defined
+
+Include : To Add something 
+
+<file name> : File Name
+
+<Stdio.h>: standard input output header file 
+
+Void Main() {:-opening Block
+            {;- Closing Block
+
+Printf() : Printf is an inbuilt function which is used to display appropriate message to console screen
+
+Structure of c programming:
+
+#include<studio.h>
+
+void main()
+{
+
+}
+
+=============================================================
+
+******************************************************************************/
+#include <stdio.h>
+
+void main()
+{
+    printf("Hello Azazkhan");
+    printf("\nHi Azazkhan");
+
+    return 0;
+}
+
+
+
+
+
+
+
+
+
+
